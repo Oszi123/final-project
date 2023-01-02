@@ -1,1 +1,1 @@
-# final-project
+# Museum of Candy
