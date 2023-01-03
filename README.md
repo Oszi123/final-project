@@ -1,6 +1,13 @@
-<<<<<<< HEAD
 # Museum of Candy
-=======
-# final-project
-<img width="1470" alt="Screen Shot 2022-11-17 at 10 58 39 AM" src="https://user-images.githubusercontent.com/106827018/202534719-937e3fb2-fbd8-47fc-9158-f0b53bf4516b.png">
->>>>>>> refs/remotes/origin/main
+Web Page for a fictional Museum of Candy built in HTML and CSS using Bootstrap 4. The website showcases the use of Bootstrap for spacing utilities, navbar changes, etc. The page is responsive for all screen sizes and contains smooth scroll animations.
+
+# Usage:
+This projected is hosted by github pages 
+
+# Screenshot
+<img width="1405" alt="Screen Shot 2023-01-02 at 4 25 37 PM" src="https://user-images.githubusercontent.com/106827018/210287024-b82a2235-f55c-4d20-800c-103d8d9cfcf9.png">
+
+#  🔧 Tools:
+* HTML5
+* CSS3
+* Bootstrap
